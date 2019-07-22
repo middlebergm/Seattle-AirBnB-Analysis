@@ -12,11 +12,11 @@
 
 
 ## Installation
-
+Python 3 required.
 
 
 ## Project motivation
-For the second term of the nanodegree, 
+For the second term of the nanodegree, I wanted to use this dataset to fulfill requirements for graduation.
 
 ## File descriptions
 
